@@ -183,4 +183,4 @@ If you use this code, please cite the accompanying paper (citation to be added o
 
 ## Access to the code
 
-The code is hosted in a private repository. Access will be granted on reasonable request by email to [smita.cair@gov.in](mailto:smita.cair@gov.in) and [g_deepa@blr.amrita.edu](mailto:g_deepa@blr.amrita.edu). Once a request is approved, you will receive an invitation to the private repository.
+The code is hosted in a private repository. Access will be granted upon request by email to the corresponding author [g_deepa@blr.amrita.edu](mailto:g_deepa@blr.amrita.edu). Once processed,  an invitation to the private repository will be sent by email.
